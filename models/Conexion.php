@@ -6,7 +6,7 @@ class Conexion {
 	static public function conectar() {
 
 		// Nos conectamos a la base de datos 
-		$link = new PDO("mysql:host=localhost;dbname=sigapp","root","");
+		$link = new PDO("mysql:host=localhost;dbname=practicas","root","");
 
 		// Evaluar los Caracteres latinos ñ Ú
 		$link -> exec("set names utf8");

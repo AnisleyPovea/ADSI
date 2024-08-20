@@ -36,9 +36,9 @@
                 </li>
 
                 <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="<?=APP_URL; ?>persona/gestor" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
-                        <p>Empresas</p>
+                        <p>Personas</p>
                     </a>
                 </li>
 
