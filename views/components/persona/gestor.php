@@ -1,6 +1,6 @@
 <div class="card-header">
     <a href="<?= route('persona/crear')?>" class="btn btn-primary">
-        crear persona
+        Crear persona
 </a>
 </div>
 <div class="card-body">

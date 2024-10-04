@@ -2,7 +2,7 @@
 /* Variables Globales
 -------------------------------------------------- */ 
     //let dominio = location.protocol+'//'+document.domain+'/';
-    let dominio = 'http://localhost/sigepp/';
+    let dominio = 'http://localhost/adsi/';
 
 /* Load Datatables
 -------------------------------------------------- */ 

@@ -31,4 +31,4 @@ src="<?= route('assets/plugins/datatables-responsive/js/responsive.bootstrap4.mi
 
 <!-- Script Custom -->
 <script src="<?= route('assets/custom/js/main.js') ?>"></script>
-<script src="<?= route('assets/custom/js/empleado.js') ?>"></script>
+<script src="<?= route('assets/custom/js/persona.js') ?>"></script>
